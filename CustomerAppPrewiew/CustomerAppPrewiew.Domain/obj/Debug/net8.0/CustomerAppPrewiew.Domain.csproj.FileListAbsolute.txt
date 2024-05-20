@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\CustomerAppPrewiew\CustomerAppPrewiew.Domain\bin\Debug\net8.0\CustomerAppPrewiew.Domain.deps.json
+C:\Users\DELL\source\repos\CustomerAppPrewiew\CustomerAppPrewiew.Domain\bin\Debug\net8.0\CustomerAppPrewiew.Domain.dll
+C:\Users\DELL\source\repos\CustomerAppPrewiew\CustomerAppPrewiew.Domain\bin\Debug\net8.0\CustomerAppPrewiew.Domain.pdb
+C:\Users\DELL\source\repos\CustomerAppPrewiew\CustomerAppPrewiew.Domain\obj\Debug\net8.0\CustomerAppPrewiew.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\CustomerAppPrewiew\CustomerAppPrewiew.Domain\obj\Debug\net8.0\CustomerAppPrewiew.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\CustomerAppPrewiew\CustomerAppPrewiew.Domain\obj\Debug\net8.0\CustomerAppPrewiew.Domain.AssemblyInfo.cs
+C:\Users\DELL\source\repos\CustomerAppPrewiew\CustomerAppPrewiew.Domain\obj\Debug\net8.0\CustomerAppPrewiew.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\CustomerAppPrewiew\CustomerAppPrewiew.Domain\obj\Debug\net8.0\CustomerAppPrewiew.Domain.dll
+C:\Users\DELL\source\repos\CustomerAppPrewiew\CustomerAppPrewiew.Domain\obj\Debug\net8.0\refint\CustomerAppPrewiew.Domain.dll
+C:\Users\DELL\source\repos\CustomerAppPrewiew\CustomerAppPrewiew.Domain\obj\Debug\net8.0\CustomerAppPrewiew.Domain.pdb
+C:\Users\DELL\source\repos\CustomerAppPrewiew\CustomerAppPrewiew.Domain\obj\Debug\net8.0\ref\CustomerAppPrewiew.Domain.dll

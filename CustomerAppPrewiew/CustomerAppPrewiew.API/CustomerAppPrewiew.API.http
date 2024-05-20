@@ -1,0 +1,6 @@
+@CustomerAppPrewiew.API_HostAddress = http://localhost:5246
+
+GET {{CustomerAppPrewiew.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
