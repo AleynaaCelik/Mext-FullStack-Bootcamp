@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\EventListApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F745A092-A347-4161-B043-824AD4CF2BB4}|EventListApp.Persistance\\EventListApp.Persistance.csproj|C:\\Users\\DELL\\source\\repos\\EventListApp\\eventlistapp.persistance\\contexts\\eventlistdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F745A092-A347-4161-B043-824AD4CF2BB4}|EventListApp.Persistance\\EventListApp.Persistance.csproj|solutionrelative:eventlistapp.persistance\\contexts\\eventlistdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9477F921-F5AC-4307-A450-AF2F2888975C}|EventList.Presentaion\\EventList.Presentaion.csproj|c:\\users\\dell\\source\\repos\\eventlistapp\\eventlist.presentaion\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9477F921-F5AC-4307-A450-AF2F2888975C}|EventList.Presentaion\\EventList.Presentaion.csproj|solutionrelative:eventlist.presentaion\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4117A1A5-23B5-494C-B863-E97E7BB89AB1}|EventList.Domain\\EventList.Domain.csproj|C:\\Users\\DELL\\source\\repos\\EventListApp\\eventlist.domain\\dtos\\addeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4117A1A5-23B5-494C-B863-E97E7BB89AB1}|EventList.Domain\\EventList.Domain.csproj|solutionrelative:eventlist.domain\\dtos\\addeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4117A1A5-23B5-494C-B863-E97E7BB89AB1}|EventList.Domain\\EventList.Domain.csproj|C:\\Users\\DELL\\source\\repos\\EventListApp\\eventlist.domain\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4117A1A5-23B5-494C-B863-E97E7BB89AB1}|EventList.Domain\\EventList.Domain.csproj|solutionrelative:eventlist.domain\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9477F921-F5AC-4307-A450-AF2F2888975C}|EventList.Presentaion\\EventList.Presentaion.csproj|C:\\Users\\DELL\\source\\repos\\EventListApp\\eventlist.presentaion\\controllers\\peoplecontrolller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9477F921-F5AC-4307-A450-AF2F2888975C}|EventList.Presentaion\\EventList.Presentaion.csproj|solutionrelative:eventlist.presentaion\\controllers\\peoplecontrolller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4117A1A5-23B5-494C-B863-E97E7BB89AB1}|EventList.Domain\\EventList.Domain.csproj|C:\\Users\\DELL\\source\\repos\\EventListApp\\eventlist.domain\\dtos\\updateeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4117A1A5-23B5-494C-B863-E97E7BB89AB1}|EventList.Domain\\EventList.Domain.csproj|solutionrelative:eventlist.domain\\dtos\\updateeventdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4117A1A5-23B5-494C-B863-E97E7BB89AB1}|EventList.Domain\\EventList.Domain.csproj|C:\\Users\\DELL\\source\\repos\\EventListApp\\eventlist.domain\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4117A1A5-23B5-494C-B863-E97E7BB89AB1}|EventList.Domain\\EventList.Domain.csproj|solutionrelative:eventlist.domain\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4117A1A5-23B5-494C-B863-E97E7BB89AB1}|EventList.Domain\\EventList.Domain.csproj|C:\\Users\\DELL\\source\\repos\\EventListApp\\eventlist.domain\\common\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4117A1A5-23B5-494C-B863-E97E7BB89AB1}|EventList.Domain\\EventList.Domain.csproj|solutionrelative:eventlist.domain\\common\\entitybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4117A1A5-23B5-494C-B863-E97E7BB89AB1}|EventList.Domain\\EventList.Domain.csproj|C:\\Users\\DELL\\source\\repos\\EventListApp\\eventlist.domain\\dtos\\updatepersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4117A1A5-23B5-494C-B863-E97E7BB89AB1}|EventList.Domain\\EventList.Domain.csproj|solutionrelative:eventlist.domain\\dtos\\updatepersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9477F921-F5AC-4307-A450-AF2F2888975C}|EventList.Presentaion\\EventList.Presentaion.csproj|C:\\Users\\DELL\\source\\repos\\EventListApp\\eventlist.presentaion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9477F921-F5AC-4307-A450-AF2F2888975C}|EventList.Presentaion\\EventList.Presentaion.csproj|solutionrelative:eventlist.presentaion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EventListApp\\EventList.Domain\\Entities\\Event.cs",
+              "RelativeDocumentMoniker": "EventList.Domain\\Entities\\Event.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EventListApp\\EventList.Domain\\Entities\\Event.cs",
+              "RelativeToolTip": "EventList.Domain\\Entities\\Event.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:02:07.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddEventDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EventListApp\\EventList.Domain\\Dtos\\AddEventDto.cs",
+              "RelativeDocumentMoniker": "EventList.Domain\\Dtos\\AddEventDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EventListApp\\EventList.Domain\\Dtos\\AddEventDto.cs",
+              "RelativeToolTip": "EventList.Domain\\Dtos\\AddEventDto.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:01:24.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EventListApp\\EventList.Presentaion\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "EventList.Presentaion\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EventListApp\\EventList.Presentaion\\Controllers\\EventController.cs",
+              "RelativeToolTip": "EventList.Presentaion\\Controllers\\EventController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:57:14.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EventListDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EventListApp\\EventListApp.Persistance\\Contexts\\EventListDbContext.cs",
+              "RelativeDocumentMoniker": "EventListApp.Persistance\\Contexts\\EventListDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EventListApp\\EventListApp.Persistance\\Contexts\\EventListDbContext.cs",
+              "RelativeToolTip": "EventListApp.Persistance\\Contexts\\EventListDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:15:38.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateEventDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EventListApp\\EventList.Domain\\Dtos\\UpdateEventDto.cs",
+              "RelativeDocumentMoniker": "EventList.Domain\\Dtos\\UpdateEventDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EventListApp\\EventList.Domain\\Dtos\\UpdateEventDto.cs",
+              "RelativeToolTip": "EventList.Domain\\Dtos\\UpdateEventDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:18:49.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EventListApp\\EventList.Domain\\Entities\\Person.cs",
+              "RelativeDocumentMoniker": "EventList.Domain\\Entities\\Person.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EventListApp\\EventList.Domain\\Entities\\Person.cs",
+              "RelativeToolTip": "EventList.Domain\\Entities\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:44:39.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PeopleControlller.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EventListApp\\EventList.Presentaion\\Controllers\\PeopleControlller.cs",
+              "RelativeDocumentMoniker": "EventList.Presentaion\\Controllers\\PeopleControlller.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EventListApp\\EventList.Presentaion\\Controllers\\PeopleControlller.cs",
+              "RelativeToolTip": "EventList.Presentaion\\Controllers\\PeopleControlller.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAA0wEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:19:56.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EntityBase.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EventListApp\\EventList.Domain\\Common\\EntityBase.cs",
+              "RelativeDocumentMoniker": "EventList.Domain\\Common\\EntityBase.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EventListApp\\EventList.Domain\\Common\\EntityBase.cs",
+              "RelativeToolTip": "EventList.Domain\\Common\\EntityBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:47:38.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UpdatePersonDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EventListApp\\EventList.Domain\\Dtos\\UpdatePersonDto.cs",
+              "RelativeDocumentMoniker": "EventList.Domain\\Dtos\\UpdatePersonDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EventListApp\\EventList.Domain\\Dtos\\UpdatePersonDto.cs",
+              "RelativeToolTip": "EventList.Domain\\Dtos\\UpdatePersonDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:37:08.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\EventListApp\\EventList.Presentaion\\Program.cs",
+              "RelativeDocumentMoniker": "EventList.Presentaion\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\EventListApp\\EventList.Presentaion\\Program.cs",
+              "RelativeToolTip": "EventList.Presentaion\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:15:53.386Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

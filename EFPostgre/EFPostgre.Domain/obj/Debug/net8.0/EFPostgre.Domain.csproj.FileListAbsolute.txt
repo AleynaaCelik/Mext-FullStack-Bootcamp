@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\EFPostgre\EFPostgre.Domain\bin\Debug\net8.0\EFPostgre.Domain.deps.json
+C:\Users\DELL\source\repos\EFPostgre\EFPostgre.Domain\bin\Debug\net8.0\EFPostgre.Domain.dll
+C:\Users\DELL\source\repos\EFPostgre\EFPostgre.Domain\bin\Debug\net8.0\EFPostgre.Domain.pdb
+C:\Users\DELL\source\repos\EFPostgre\EFPostgre.Domain\obj\Debug\net8.0\EFPostgre.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\EFPostgre\EFPostgre.Domain\obj\Debug\net8.0\EFPostgre.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\EFPostgre\EFPostgre.Domain\obj\Debug\net8.0\EFPostgre.Domain.AssemblyInfo.cs
+C:\Users\DELL\source\repos\EFPostgre\EFPostgre.Domain\obj\Debug\net8.0\EFPostgre.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\EFPostgre\EFPostgre.Domain\obj\Debug\net8.0\EFPostgre.Domain.dll
+C:\Users\DELL\source\repos\EFPostgre\EFPostgre.Domain\obj\Debug\net8.0\refint\EFPostgre.Domain.dll
+C:\Users\DELL\source\repos\EFPostgre\EFPostgre.Domain\obj\Debug\net8.0\EFPostgre.Domain.pdb
+C:\Users\DELL\source\repos\EFPostgre\EFPostgre.Domain\obj\Debug\net8.0\ref\EFPostgre.Domain.dll

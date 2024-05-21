@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFPostgre.Domain", "EFPostgre.Domain\EFPostgre.Domain.csproj", "{3AC62229-8CD9-4237-AE2C-01CBBC672A04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFPostgre.Persistance", "EFPostgre.Persistance\EFPostgre.Persistance.csproj", "{E1A69AD5-3BA2-48AA-96F7-9C61D53E3CC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFPostgre.Presantaion", "EFPostgre.Presantaion\EFPostgre.Presantaion.csproj", "{C6397077-46EA-4DA3-809E-BF150E6B450C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AC62229-8CD9-4237-AE2C-01CBBC672A04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AC62229-8CD9-4237-AE2C-01CBBC672A04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AC62229-8CD9-4237-AE2C-01CBBC672A04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AC62229-8CD9-4237-AE2C-01CBBC672A04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1A69AD5-3BA2-48AA-96F7-9C61D53E3CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1A69AD5-3BA2-48AA-96F7-9C61D53E3CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1A69AD5-3BA2-48AA-96F7-9C61D53E3CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1A69AD5-3BA2-48AA-96F7-9C61D53E3CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6397077-46EA-4DA3-809E-BF150E6B450C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6397077-46EA-4DA3-809E-BF150E6B450C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6397077-46EA-4DA3-809E-BF150E6B450C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6397077-46EA-4DA3-809E-BF150E6B450C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B96E9396-ACC4-49F4-83D3-0F52CB54B459}
+	EndGlobalSection
+EndGlobal

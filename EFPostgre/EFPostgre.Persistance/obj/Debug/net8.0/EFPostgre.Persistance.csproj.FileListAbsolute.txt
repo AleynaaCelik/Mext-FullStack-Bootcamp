@@ -1,0 +1,17 @@
+C:\Users\DELL\source\repos\EFPostgre\EFPostgre.Persistance\obj\Debug\net8.0\EFPostgre.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\EFPostgre\EFPostgre.Persistance\obj\Debug\net8.0\EFPostgre.Persistance.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\EFPostgre\EFPostgre.Persistance\obj\Debug\net8.0\EFPostgre.Persistance.AssemblyInfo.cs
+C:\Users\DELL\source\repos\EFPostgre\EFPostgre.Persistance\obj\Debug\net8.0\EFPostgre.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\EFPostgre\EFPostgre.Persistance\bin\Debug\net8.0\EFPostgre.Persistance.deps.json
+C:\Users\DELL\source\repos\EFPostgre\EFPostgre.Persistance\bin\Debug\net8.0\EFPostgre.Persistance.runtimeconfig.json
+C:\Users\DELL\source\repos\EFPostgre\EFPostgre.Persistance\bin\Debug\net8.0\EFPostgre.Persistance.dll
+C:\Users\DELL\source\repos\EFPostgre\EFPostgre.Persistance\bin\Debug\net8.0\EFPostgre.Persistance.pdb
+C:\Users\DELL\source\repos\EFPostgre\EFPostgre.Persistance\bin\Debug\net8.0\EFPostgre.Domain.dll
+C:\Users\DELL\source\repos\EFPostgre\EFPostgre.Persistance\bin\Debug\net8.0\EFPostgre.Domain.pdb
+C:\Users\DELL\source\repos\EFPostgre\EFPostgre.Persistance\obj\Debug\net8.0\EFPostgre.Persistance.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\EFPostgre\EFPostgre.Persistance\obj\Debug\net8.0\EFPostgr.8DFFC8C0.Up2Date
+C:\Users\DELL\source\repos\EFPostgre\EFPostgre.Persistance\obj\Debug\net8.0\EFPostgre.Persistance.dll
+C:\Users\DELL\source\repos\EFPostgre\EFPostgre.Persistance\obj\Debug\net8.0\refint\EFPostgre.Persistance.dll
+C:\Users\DELL\source\repos\EFPostgre\EFPostgre.Persistance\obj\Debug\net8.0\EFPostgre.Persistance.pdb
+C:\Users\DELL\source\repos\EFPostgre\EFPostgre.Persistance\obj\Debug\net8.0\EFPostgre.Persistance.genruntimeconfig.cache
+C:\Users\DELL\source\repos\EFPostgre\EFPostgre.Persistance\obj\Debug\net8.0\ref\EFPostgre.Persistance.dll
