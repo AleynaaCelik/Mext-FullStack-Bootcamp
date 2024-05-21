@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\GptExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8BF42DA-5B3E-4A81-B648-F4FC275C1FDC}|GptExample.Persistance\\GptExample.Persistance.csproj|c:\\users\\dell\\source\\repos\\gptexample\\gptexample.persistance\\services\\promptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8BF42DA-5B3E-4A81-B648-F4FC275C1FDC}|GptExample.Persistance\\GptExample.Persistance.csproj|solutionrelative:gptexample.persistance\\services\\promptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C843E73-564C-4D4E-98AA-D0439A3E2BB8}|GptExample.Presantation\\GptExample.Presantation.csproj|c:\\users\\dell\\source\\repos\\gptexample\\gptexample.presantation\\controllers\\promptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C843E73-564C-4D4E-98AA-D0439A3E2BB8}|GptExample.Presantation\\GptExample.Presantation.csproj|solutionrelative:gptexample.presantation\\controllers\\promptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410DC850-E1BF-46BF-A4F9-2A0EE768E903}|GptExample.Application\\GptExample.Application.csproj|c:\\users\\dell\\source\\repos\\gptexample\\gptexample.application\\dtos\\addpromptdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410DC850-E1BF-46BF-A4F9-2A0EE768E903}|GptExample.Application\\GptExample.Application.csproj|solutionrelative:gptexample.application\\dtos\\addpromptdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{410DC850-E1BF-46BF-A4F9-2A0EE768E903}|GptExample.Application\\GptExample.Application.csproj|c:\\users\\dell\\source\\repos\\gptexample\\gptexample.application\\services\\ipromptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410DC850-E1BF-46BF-A4F9-2A0EE768E903}|GptExample.Application\\GptExample.Application.csproj|solutionrelative:gptexample.application\\services\\ipromptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8BF42DA-5B3E-4A81-B648-F4FC275C1FDC}|GptExample.Persistance\\GptExample.Persistance.csproj|c:\\users\\dell\\source\\repos\\gptexample\\gptexample.persistance\\context\\gptexampledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8BF42DA-5B3E-4A81-B648-F4FC275C1FDC}|GptExample.Persistance\\GptExample.Persistance.csproj|solutionrelative:gptexample.persistance\\context\\gptexampledbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE9E8F2-FF48-4683-B31B-BC73B9B90349}|GptExample.Domain\\GptExample.Domain.csproj|c:\\users\\dell\\source\\repos\\gptexample\\gptexample.domain\\entities\\gptprompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE9E8F2-FF48-4683-B31B-BC73B9B90349}|GptExample.Domain\\GptExample.Domain.csproj|solutionrelative:gptexample.domain\\entities\\gptprompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE9E8F2-FF48-4683-B31B-BC73B9B90349}|GptExample.Domain\\GptExample.Domain.csproj|c:\\users\\dell\\source\\repos\\gptexample\\gptexample.domain\\common\\entitiybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BE9E8F2-FF48-4683-B31B-BC73B9B90349}|GptExample.Domain\\GptExample.Domain.csproj|solutionrelative:gptexample.domain\\common\\entitiybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PromptsController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\GptExample\\GptExample.Presantation\\Controllers\\PromptsController.cs",
+              "RelativeDocumentMoniker": "GptExample.Presantation\\Controllers\\PromptsController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\GptExample\\GptExample.Presantation\\Controllers\\PromptsController.cs",
+              "RelativeToolTip": "GptExample.Presantation\\Controllers\\PromptsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:19:35.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GPTExampleDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\GptExample\\GptExample.Persistance\\Context\\GPTExampleDBContext.cs",
+              "RelativeDocumentMoniker": "GptExample.Persistance\\Context\\GPTExampleDBContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\GptExample\\GptExample.Persistance\\Context\\GPTExampleDBContext.cs",
+              "RelativeToolTip": "GptExample.Persistance\\Context\\GPTExampleDBContext.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAACFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:50:43.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PromptService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\GptExample\\GptExample.Persistance\\Services\\PromptService.cs",
+              "RelativeDocumentMoniker": "GptExample.Persistance\\Services\\PromptService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\GptExample\\GptExample.Persistance\\Services\\PromptService.cs",
+              "RelativeToolTip": "GptExample.Persistance\\Services\\PromptService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwBQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:46:30.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddPromptDto.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\GptExample\\GptExample.Application\\Dtos\\AddPromptDto.cs",
+              "RelativeDocumentMoniker": "GptExample.Application\\Dtos\\AddPromptDto.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\GptExample\\GptExample.Application\\Dtos\\AddPromptDto.cs",
+              "RelativeToolTip": "GptExample.Application\\Dtos\\AddPromptDto.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:36:57.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPromptService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\GptExample\\GptExample.Application\\Services\\IPromptService.cs",
+              "RelativeDocumentMoniker": "GptExample.Application\\Services\\IPromptService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\GptExample\\GptExample.Application\\Services\\IPromptService.cs",
+              "RelativeToolTip": "GptExample.Application\\Services\\IPromptService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:33:21.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GptPrompt.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\GptExample\\GptExample.Domain\\Entities\\GptPrompt.cs",
+              "RelativeDocumentMoniker": "GptExample.Domain\\Entities\\GptPrompt.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\GptExample\\GptExample.Domain\\Entities\\GptPrompt.cs",
+              "RelativeToolTip": "GptExample.Domain\\Entities\\GptPrompt.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T13:05:03.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntitiyBase.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\GptExample\\GptExample.Domain\\Common\\EntitiyBase.cs",
+              "RelativeDocumentMoniker": "GptExample.Domain\\Common\\EntitiyBase.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\GptExample\\GptExample.Domain\\Common\\EntitiyBase.cs",
+              "RelativeToolTip": "GptExample.Domain\\Common\\EntitiyBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T12:39:48.841Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
