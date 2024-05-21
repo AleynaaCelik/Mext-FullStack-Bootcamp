@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\LoggerApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6ED924D-7281-4B9C-B15A-F6BC0DDDC4D0}|LoggerApp.API\\LoggerApp.API.csproj|c:\\users\\dell\\source\\repos\\loggerapp\\loggerapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6ED924D-7281-4B9C-B15A-F6BC0DDDC4D0}|LoggerApp.API\\LoggerApp.API.csproj|solutionrelative:loggerapp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6ED924D-7281-4B9C-B15A-F6BC0DDDC4D0}|LoggerApp.API\\LoggerApp.API.csproj|c:\\users\\dell\\source\\repos\\loggerapp\\loggerapp.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6ED924D-7281-4B9C-B15A-F6BC0DDDC4D0}|LoggerApp.API\\LoggerApp.API.csproj|solutionrelative:loggerapp.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C53909-E6B4-406F-9157-75E7C1E0414F}|LoggerApp.Domain\\LoggerApp.Domain.csproj|c:\\users\\dell\\source\\repos\\loggerapp\\loggerapp.domain\\abstractions\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C53909-E6B4-406F-9157-75E7C1E0414F}|LoggerApp.Domain\\LoggerApp.Domain.csproj|solutionrelative:loggerapp.domain\\abstractions\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69C53909-E6B4-406F-9157-75E7C1E0414F}|LoggerApp.Domain\\LoggerApp.Domain.csproj|c:\\users\\dell\\source\\repos\\loggerapp\\loggerapp.domain\\services\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69C53909-E6B4-406F-9157-75E7C1E0414F}|LoggerApp.Domain\\LoggerApp.Domain.csproj|solutionrelative:loggerapp.domain\\services\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LoggerApp\\LoggerApp.API\\Program.cs",
+              "RelativeDocumentMoniker": "LoggerApp.API\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LoggerApp\\LoggerApp.API\\Program.cs",
+              "RelativeToolTip": "LoggerApp.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:13:41.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LoggerApp\\LoggerApp.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "LoggerApp.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LoggerApp\\LoggerApp.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "LoggerApp.API\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:05:33.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleLogger.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LoggerApp\\LoggerApp.Domain\\Services\\ConsoleLogger.cs",
+              "RelativeDocumentMoniker": "LoggerApp.Domain\\Services\\ConsoleLogger.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LoggerApp\\LoggerApp.Domain\\Services\\ConsoleLogger.cs",
+              "RelativeToolTip": "LoggerApp.Domain\\Services\\ConsoleLogger.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T13:02:15.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\LoggerApp\\LoggerApp.Domain\\Abstractions\\ILogger.cs",
+              "RelativeDocumentMoniker": "LoggerApp.Domain\\Abstractions\\ILogger.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\LoggerApp\\LoggerApp.Domain\\Abstractions\\ILogger.cs",
+              "RelativeToolTip": "LoggerApp.Domain\\Abstractions\\ILogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T12:50:10.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerApp.API", "LoggerApp.API\LoggerApp.API.csproj", "{A6ED924D-7281-4B9C-B15A-F6BC0DDDC4D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggerApp.Domain", "LoggerApp.Domain\LoggerApp.Domain.csproj", "{69C53909-E6B4-406F-9157-75E7C1E0414F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6ED924D-7281-4B9C-B15A-F6BC0DDDC4D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6ED924D-7281-4B9C-B15A-F6BC0DDDC4D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6ED924D-7281-4B9C-B15A-F6BC0DDDC4D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6ED924D-7281-4B9C-B15A-F6BC0DDDC4D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69C53909-E6B4-406F-9157-75E7C1E0414F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C53909-E6B4-406F-9157-75E7C1E0414F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C53909-E6B4-406F-9157-75E7C1E0414F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C53909-E6B4-406F-9157-75E7C1E0414F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B1FA66B-B48F-45B8-B3A7-2C0228F0643E}
+	EndGlobalSection
+EndGlobal
